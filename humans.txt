@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 vaibhav is added to this team
+kotwad is added to this team
 # TEAM
 
     <name> -- <role> -- <twitter>
