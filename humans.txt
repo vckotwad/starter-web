@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 vaibhav is added to this team
 kotwad is added to this team
+rajur is added
 # TEAM
 
     <name> -- <role> -- <twitter>
